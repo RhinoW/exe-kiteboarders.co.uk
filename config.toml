@@ -1,0 +1,93 @@
+baseURL = "https://exe-kiteboarders.co.uk/"
+languageCode = "en-gb"
+title = "Exe Kiteboarders"
+theme = "hugo-now-ui"
+
+[params]
+    # TODO - is description used in this?
+    description = "Exmouth (Devon, UK) Kiteboarders"
+    # These were for ananke theme
+    #facebook = "https://www.facebook.com/groups/Billysnowmates/"
+    #twitter = "https://twitter.com/billymatessnow"
+    #instagram = "https://www.instagram.com/billysnowmates/"
+    #youtube = "https://vimeo.com/billysnowmates"    
+        
+    # Need to get permission from Exmouth kitesurfers
+    #background = "/images/exmouth-seafront-background.jpg"
+
+    # From unsplash https://unsplash.com/photos/ipAHs6Z_1zs
+    background = "/images/kitesurfing-sunset-background.jpg"
+        
+    tint = "orange" # If change from orange then lose some othter formatting - probably have to muck around with css generators?
+
+[menu]           
+
+    [[menu.footer]]
+        identifier = "facebook"
+        pre = "<i class='fa fa-facebook'></i>"
+        url = "https://www.facebook.com/groups/exmouthkitesurf/"
+        weight = 10   
+
+    [[menu.footer]]
+        identifier = "facebook2"
+        pre = "<i class='fa fa-facebook'></i>"
+        url = "https://www.facebook.com/groups/776864838993273/"
+        weight = 20    
+    
+
+    [[menu.footer]]
+        identifier = "contact"
+        name = "Contact Us"
+        url = "/contact-us/"
+        weight = 30    
+
+    [[menu.footer]]
+        identifier = "privacy"
+        name = "Privacy"
+        url = "/privacy/"
+        weight = 40
+
+    [[menu.footer]]
+        identifier = "cookies"
+        name = "Cookies"
+        url = "/cookies/"
+        weight = 50
+
+    [[menu.footer]]
+        identifier = "attribution"
+        name = "Attribution"
+        url = "/attribution/"
+        weight = 60
+
+    [[menu.footer]]
+        identifier = "disclaimer"
+        name = "Disclaimer"
+        url = "/disclaimer/"
+        weight = 70
+
+    [[menu.main]]
+        identifier = "spot-guide"
+        name = "Spot Guide"
+        url = "/spot-guide/"
+        pre = "<span style='color:yellow;'>"
+        post = "</span>"
+        weight = 10
+
+    [[menu.main]]
+        identifier = "weather"
+        name = "Weather"
+        url = "/weather/"
+        weight = 20
+        
+    [[menu.main]]
+        identifier = "links"
+        name = "Links"
+        url = "/links/"
+        weight = 30            
+
+    [[menu.main]]
+        identifier = "code-of-conduct"
+        name = "Code of Conduct"
+        url = "/code-of-conduct/"
+        weight = 60
+    

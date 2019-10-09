@@ -1,0 +1,22 @@
+
+<div style="width:800px">
+<script id="wg_fwdg_47887_3_1570540531526">
+    (function (window, document) {
+        var loader = function () {
+            var arg = ["s=47887", "m=3", "uid=wg_fwdg_47887_3_1570540531526", "wj=knots", "tj=c", "odh=0", "doh=24", "fhours=96", "vt=forecasts", "lng=en",
+                "p=WINDSPD,GUST,SMER,TMP,WCHILL,APCPs,RATING"];
+            var script = document.createElement("script");
+            var tag = document.getElementsByTagName("script")[0];
+            script.src = "https://www.windguru.cz/js/widget.php?" + (arg.join("&"));
+            tag.parentNode.insertBefore(script, tag);
+        };
+        window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
+    })(window, document);
+</script>
+</div>
+<br>
+<!-- No widget for weather statin, so just show in iFrame -->
+<p><strong>Live wind conditions on the Duck Pond : </strong></p>
+<em>Chart by <a href="https://www.windguru.cz/station/1882" target="_blank">Windguru</a>
+and weather station sponsered by <a href="https://www.edgewatersports.com/" target="_blank">EDGE Watersports</a></em>
+<iframe src="https://www.windguru.cz/wglive-iframe.php?s=1882&wj=knots&tj=c&m=3&gsize=200&msize=200&show=l,n,g,c" width="800px" height="395px"></iframe>

@@ -1,0 +1,65 @@
+
+TODO
+====
+
+Buy domain - setup DNS
+
+Get into github / netlify
+
+301 redirects for all incoming domains
+
+TODO Maybe
+==========
+
+Weather - NCI guages
+
+
+Lost and found
+	Group + Barry - https://www.facebook.com/groups/351169522098065/?ref=gysj
+	Stickers - http://mca.ecgroup.net/Publications/Recreationandwatersport%C2%A0/Recreationandwatersport%C2%A0.aspx
+				http://sea-id.com/?fbclid=IwAR0-9L8XmUFoaatSkLN398pjee9C0ZY66PPWAlcx9UnMRAS6IvePYVrKhEU
+
+General good safety advice
+	Instruction
+	Launch / Land
+	ROW
+	Self resucue inc deep water packdown
+		https://www.youtube.com/watch?v=Ze0a24YKN6I&feature=youtu.be&fbclid=IwAR1AvpfyTvZL6GbkoTjFsb3FqD5f38PTqTOOxhEMyEMTQmnyY9fiw3BCAng
+	Markup kites/boards and inform coastguard
+
+
+Start Hugo server
+=================
+
+cd c:\dev\hugo
+
+CD Sites\exe-kiteboarders.co.uk
+
+hugo server -D
+
+# If want to access from other machine in network
+hugo server --bind=0.0.0.0 --baseURL=http://whistler:1313
+
+start chrome http://localhost:1313/
+
+code .
+
+=== BUILD FOR DEPLOYMENT
+rmdir public /s
+hugo
+-- then git add/commit/push
+
+// Add and commit
+		git add * or filename		
+		// see whats in commit
+		git status
+		git commit -m "MESSAGE"
+		git push -u origin master
+				
+		// pull and merge
+		git pull			
+		
+		
+=== Setup new site
+
+hugo new site [dir]

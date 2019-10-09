@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  {{partial "head" . }}
+   
+	<body class="{{ .Params.class | default "profile-page" }} sidebar-collapse">
+    <!-- Style overrides. Need to get into .css at some point but not sure if HUGO override rules apply to static things like css-->
+    <style>        
+        div.page-header.page-header-small { min-height: 300px; height:30vh;}
+        h2, .h2 {font-size:2em;}
+        h3, h3 {font-size:1.5em;}
+        div.section {padding-top:30px;}
+        .card .card-body { min-height:100px; }
+    </style>
+
+    {{ partial "nav" . }}
+    
+    <div class="{{ .Params.wrapper | default "wrapper" }}">
+      
+        <div class="page-header {{ .Params.headerstyle | default "page-header-small"}}" filter-color="{{ .Param "tint" | default "orange" }}">
+            <div class="page-header-image" data-parallax="true" style="background-image: url('{{ (.Param "background")  | default "img/header.jpg" | relURL }}');">
+            </div>
+            
+            {{ block "title" . }}
+            {{ end }}
+            
+        </div>
+        <div class="{{ .Params.section | default "section"}}">
+            <div class="container">
+              
+            {{ block "body" . }}
+	          {{ end }}
+
+            </div>
+        </div>
+      {{ partial "footer" . }}
+    </div>
+  </body>
+{{partial "javascript" . }}
+</html>

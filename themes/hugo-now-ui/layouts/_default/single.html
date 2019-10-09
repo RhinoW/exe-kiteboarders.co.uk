@@ -1,0 +1,22 @@
+{{ define "title" }}
+<div class="container">
+  <div class="content-center">
+    <h1 class="title">{{ with .Params.headertitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>    
+    <div class="text-center">
+      {{ with .Params.description }} {{ . | safeHTML | markdownify }} {{ end }}
+    </div>
+    {{ with .Params.author }}
+    <p class="text-right"><em>By {{ . | safeHTML | markdownify }}</em></p>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
+{{ define "body" }}
+<div class="row">
+  <div class="col-md-8 ml-auto mr-auto text-left">
+  {{ .Content }}
+  </div>   
+</div>
+{{ end }}        
+ 
