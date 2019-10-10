@@ -3,7 +3,7 @@ title: "Weather"
 description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck Pond and Seafront)"
 ---
 
-There are two spots in Exmoth - the [Sea Front and Duck Pond](http://localhost:1313/spot-guide/) and the wind and tide conditions dictate which will be best at any particular time.
+There are two spots in Exmoth - the [Sea Front and Duck Pond](/spot-guide/) and the wind and tide conditions dictate which will be best at any particular time.
 
 ## Forecast
 * [EDGE Watersports](https://www.edgewatersports.com/live-conditions/) - regularily update a "Daily Report" and where and when is likely to be best depending on conditions and tide. Great for picking up not only when its good but also WHY so you can better understand weather. (Also on [Facebook](https://www.facebook.com/edgewatersports) )
