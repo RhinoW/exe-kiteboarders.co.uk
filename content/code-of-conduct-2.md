@@ -11,13 +11,13 @@ Kite Surfing is an extreme sport and potentially dangerous to both the participa
 
 You should hold **third party insurance** (such as you get throgh [BKSA Membership](/membership/)) and have received thorough training from a qualified instructor, or, that you are competent to [British Kitesports level 3](https://www.britishkitesports.org/safety/). 
 
-We strongly discourages participants from attempting to teach themselves. By seeking qualified instruction you will: learn faster and with greater safety for yourself and those around; become competent and progress to a higher level more quickly; you will have more fun. **Instruction is an investment that will pay for itself.**
+We strongly discourage participants from attempting to teach themselves. By seeking qualified instruction you will: learn faster and with greater safety for yourself and those around; become competent and progress to a higher level more quickly; you will have more fun. **Instruction is an investment that will pay for itself.**
 
 ## Exmouth Kite Surfing Sites
 
-There are two kiteboarding sites in Exmouth. Kiteboarders MUST have third party insurance before riding at either of them.
+There are two kiteboarding sites in Exmouth.
 
-* The [**Seafront**](/spot-guide/seafront/) is not for beginners Kiteboarders wishing to ride the front must be competent and able to stay upwind. There is a voluntary launch area opposite the Queens Road car park and along from the green number 11 buoy. The front should only be used to launch/land and never to practice land-based flying skills, especially jumping.
+* The [**Seafront**](/spot-guide/seafront/) is not for beginners. Kite surfers wishing to ride the front must be competent and able to stay upwind. There is a voluntary launch area opposite the Queens Road car park. The front should only be used to launch/land and never to practice land-based flying skills, especially jumping.
 * The [**Duckpond**](/spot-guide/duck-pond/) is for everyone offering a large riding area where you can be pretty sure you are going to be within your depth, but always check the water is deep enough to avoid injury when falling. The duckpond can be used in most conditions; learners should arrive early, launch on the sand, and avoid kiting at high tide unless able to stay upwind. This area has a **Wildlife Refuge area active from September through December and it’s vital we keep out of this area.**
 
 Read the spot [Exmouth Kitesurfing Spot Guide](/spot-guide/) for detailed information about both sites.

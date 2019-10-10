@@ -16,11 +16,11 @@ Exe-Kiteboarders was founded in XXX TODO XXX
 
 The founders of Exe-Kiteboarders are passionate about protecting your right to ride around Exmouth and have put in lots of work over the years to help keep our spots open to kite-surfers.
 
-**We need your help though!** Join [British Kiteboarding](/membership/), learn the nuances of the [Duckpond and Seafront spots](/spot-guide/) and most of all [kitesurf respectfully](/code-of-conduct/).
+**We need your help though!** 
 
-<div class="text-center">
-    <strong>Don't be a KOOK, don't give Kite Surfing a bad name and get us banned.</strong>
-</div>
+Join [British Kiteboarding](/membership/), learn the nuances of the [Duckpond and Seafront spots](/spot-guide/) and most of all [kitesurf respectfully](/code-of-conduct/).
+
+<div style="text-align:center; font-weight:bold; padding-bottom:10px">Don't be the KOOK of the beach, don't hurt others or yourself.<br>DON'T GET KITE SURFING BANNED</div>
 
 <br>
 ## Who we are

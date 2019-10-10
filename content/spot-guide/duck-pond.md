@@ -13,11 +13,11 @@ Its best **2 hours either side of High Tide**, but can be ridden at most states 
 
 ## Location
 
-The **Duck Pond** is the local name for the part of the **Exe Estuary**.
+The **Duck Pond** is the local name for part of the **Exe Estuary** nearest Exmouth.
 
 The rigging / launch site is at the **Imperial Recreation Ground**, The Royale Ave, Exmouth, EX8 1DG.
 
-Parking is sometimes tight right by the "Rec Ground" so there are alternatives a short walk away just over the road at the Imperial Road Short Stay Car Park that you passed getting there or across grass at Camperdown Terrace - (EX8 1EJ)
+Parking is sometimes tight right by the "Rec Ground" so there are alternatives a short walk away just over the road at the Imperial Road Short Stay Car Park that you passed getting there or across the Rec Ground grass at Camperdown Terrace - (EX8 1EJ)
 
 View on [Google Maps](https://drive.google.com/open?id=1-ZO755CqpeceKO2cMKHwK26Ow30WJCRY&usp=sharing)
 
@@ -77,8 +77,8 @@ View on [Google Maps](https://drive.google.com/open?id=1-ZO755CqpeceKO2cMKHwK26O
 *(There are 4 big yellow buoys with numbers marking the powerboat course, ignore these - its the big yellow ones with crosses on and the smaller round ones all marked "WR")*
 
 * Remember to turn well before them to ensure your kite doesn't overfly (they are both big and scary for birds and big and visible for photos showing proof that we're not abiding to the refuge!)
-* If you do end up having to go into the refuge despite your best efforts for safety reasons or you have had some sort of fall or equipment failure then you will not be shot on sight. We must "Avoid wildlife refuges where safe to do so".
-* If you spot other kite or windsurfers going into the Wildlife Refuge have a friendly word with them when safe to do so. No one wants to be the beach police, but its likely they just didn't know.
+* If you do end up having to go into the refuge, despite your best efforts, for safety reasons or you have had some sort of fall or equipment failure then you will not be shot on sight. We must "Avoid wildlife refuges where safe to do so".
+* If you spot other kite or wind surfers going into the Wildlife Refuge have a friendly word with them when safe to do so. No one wants to be the beach police, but its likely they just didn't know.
 
 * For more information consult the Exe Estuary Management Partnership and the [Exe Water Users Code](https://www.exe-estuary.org/exe-codes-of-conduct)
 * Also please read the [Code of Conduct](/code-of-conduct/)

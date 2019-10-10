@@ -58,11 +58,14 @@ View on [Google Maps](https://drive.google.com/open?id=1-ZO755CqpeceKO2cMKHwK26O
 ## Hazards
 
 * A **deep channel runs very fast** alongside the **narrow beach backed by a sea wall and road**. 
-* When the "Pole Sands" sandbank comes up (towards low tide) the channel starts running very flat. Drop your kite and loose your board without good bodydragging skills and be ready for a struggle.
-* Especially when the tide is running fast if you **drop your kite anywhere near a channel marker buoy it will be torn to shreds**. They come up quick when you are moving at 10mph with the tide so keep clear. If you do get snagged prepare to cut the kite loose and save yourself.
-* The **channel area can get very busy** so be sure you know your Right Of Way rules in respect to other kitesurfers and best stay out of the way of boats and other vessels. They may well be *restricted in their room to manouver* even when under power so that trumps your "Starboard Tack". Regardless they are bigger and have many pointy bits. Check behind you occasionally to see whats sneaking up on you.
+* When the "Pole Sands" sandbank comes up (towards low tide) the channel starts running very flat, but also very fast.
+* Drop your kite or loose your board without good bodydragging skills and be ready for a struggle.
+* Especially when the tide is running fast if you **drop your kite anywhere near a channel marker buoy it will be torn to shreds**. They come up quick when you are floating along at 10mph with the tide so keep clear. 
+* *(10mph is 4 meters per second. In less than 5 seconds you will have traveled the length of your kite lines, think about then when you are trying a trick that may involve dropping your kite!)*
+* If you do get snagged prepare to cut the kite loose and save yourself - you can't fight that sort of current.
+* The **channel area can get very busy** so be sure you know your Right Of Way rules in respect to other kitesurfers and best stay out of the way of boats and other vessels. They may well be *restricted in their room to manouver* even when under power so that trumps your "Starboard Tack". Regardless they are bigger and have many sharp pointy bits. Check up-wind (behind you) occasionally to see whats sneaking up on you.
 * **Boards are lost in this ara on a regular basis** despite other kite-surfers helping bring them back to the beach. **Write your name/number on the board in marker pen** or get a sticker - you may then get it back and it will stop the coastguard (who should be notified of loss on their non-emergency number) sending out helicopters or the RNLI to look for you.
-* The **beach can get busy in summer**. Be courteous and use the semi-official launch area, get and give help to launch and land. Don't leave your lines all over. Don't fly/jump/drop/crash your kite over the beach. Check for other kiters / pedestrians before you launch and let them pass by first. Just **"don't be a kook"**
+* The **beach can get busy in summer**. Be courteous and use the semi-official launch area, get and give help to launch and land. Don't leave your lines all over. Don't fly/jump/drop/crash your kite over the beach. Check for other kiters / beach users before you launch and let them pass by first. Just **"don't be a kook"**
 * **Stay OUT of the 'swimming area' when its in use** - its patrolled by the RNLI and busy in summer. Don't go between the red/yellow flags until you're at least 100m off shore.
 * When not in use by others, the 'swimming area' near Mear Rocks & the lifeboat station is shallow and out of the tide so good for learning and when the tide is causing problems (otherwise start well upwind and get over and behind Pole Sands to get out of the tide)
 

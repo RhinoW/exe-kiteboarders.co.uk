@@ -5,11 +5,11 @@ description: 3rd Party Insurance and a strong local & national voice.
 
 ## Join British Kitesports and Exe-Kiteboarders
 
-* Join Exe-Kiteboarders via a [British Kitesports (old name BKSA)](https://www.britishkitesports.org/) membership - this provide a local and national voice for our sport.
-* Assocations and clubs carry a lot of clout at meetings with various authorities - they want to deal with groups, not try and herd thousands of wild cats.
-* [Exe-Kiteboarders have represented Kite sports with various authorities over the years](/about/) and there have been times when there has been a very real prospect of restrictions being introduced.
-* British Kiteboarding set the standard for instruction in this country and many places worldwide and ensure those standards are kept up.
-* They provide **3rd party insurance** that is highly recomended whereever you go and mandatory at some spots.
+* Join Exe-Kiteboarders via the [British Kitesports](https://www.britishkitesports.org/) (old name BKSA) - this provide a local and national voice for our sport.
+* Assocations and clubs carry a lot of clout at meetings with various authorities - they want to deal with well organised groups, not try and herd thousands of wild cats.
+* [Exe-Kiteboarders have represented Kite sports with various authorities over the years](/about/) and there have been times when there has been a very real prospect of bans and restrictions being introduced.
+* British Kitesports set the standard for instruction in this country and many places worldwide and ensure those standards are kept up with regular re-certification.
+* [**British Kitesports also provide insurance**](https://www.britishkitesports.org/join-british-kitesports/british-kitesports-association-insurance-policy/) that is highly recomended whereever you go and mandatory at some spots.
 <br>
 <br>
 <div class="text-center">
