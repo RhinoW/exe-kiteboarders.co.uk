@@ -90,4 +90,22 @@ theme = "hugo-now-ui"
         name = "Code of Conduct"
         url = "/code-of-conduct/"
         weight = 60
+
+    [[menu.main]]
+        identifier = "code-of-conduct-v2"
+        name = "Code of Conduct v2"
+        url = "/code-of-conduct-2/"
+        weight = 70
+
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 80
+
+    [[menu.main]]
+        identifier = "membership"
+        name = "Membership"
+        url = "/membership/"
+        weight = 90
     

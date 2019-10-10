@@ -8,6 +8,10 @@ title: "Attribution"
 * [Netlify](https://www.netlify.com/) - hosting
 * [Github](https://github.com/)
 
+## Photos
+* Chris Battershill
+* [Marc Kleen](https://unsplash.com/@marckleen/portfolio) from [Unsplash](https://unsplash.com/@marckleen)
+
 ## Theme
 
 * Modified Hugo-Now-UI theme by [Creative Tim](https://github.com/creativetimofficial/now-ui-kit) who adapted the popular [Invision UI Kit](https://www.invisionapp.com/now)

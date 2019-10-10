@@ -73,7 +73,7 @@ View on [Google Maps](https://drive.google.com/open?id=1-ZO755CqpeceKO2cMKHwK26O
 
 * The **Exmouth Wildlife Refuge is marked out by a line of yellow buoys. Keep to the West of them** (to the left of them when looking up the estuary)
 
-![Line of yellow buoys marking Exmouth Wildlife Area](/images/exmouth/duckpond-wildlife-refuge.jpg)
+![Line of yellow buoys marking Exmouth Wildlife Area](/images/exmouth/duckpond-wildlife-refuge-buoys.jpg)
 *(There are 4 big yellow buoys with numbers marking the powerboat course, ignore these - its the big yellow ones with crosses on and the smaller round ones all marked "WR")*
 
 * Remember to turn well before them to ensure your kite doesn't overfly (they are both big and scary for birds and big and visible for photos showing proof that we're not abiding to the refuge!)

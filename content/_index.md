@@ -12,6 +12,11 @@ The seaside town of Exmouth has some of the best watersports locations in the co
 
 The two locations allow kite and wind surfing in a huge variety of conditions and wind directions. Kitesurfing in Exmouth has become massively successful. On a perfect day, we have seen over 100 kites on the water!
 
-**Safety and awareness are central to Exmouth's long-term future as one of the UK's best kiteboarding locations**.
+<div class="text-center">
+<strong>Safety and awareness are central to Exmouth's long-term future as one of the UK's best kiteboarding locations.</strong>
+</div>
+<br>
 
 Please read the **[spot guides](/spot-guide/)** and abide by the **[code of conduct](/code-of-conduct/)**, which has been developed in association with the Exe Estuary Management Partnership and is based on common sense and co-operation.
+
+Consider joining [British Kitesports and Exe-Kiteboarders](/membership) for 3rd party insurance and a strong local and national voice with the authorities.

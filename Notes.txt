@@ -2,17 +2,19 @@
 TODO
 ====
 
-Buy domain - setup DNS
-
-Get into github / netlify
+Domain - setup DNS
 
 301 redirects for all incoming domains
+
+Finish About page
+
 
 TODO Maybe
 ==========
 
-Weather - NCI guages
-
+Weather
+	NCI guages
+	Explanation of tide times next to tide timetable
 
 Lost and found
 	Group + Barry - https://www.facebook.com/groups/351169522098065/?ref=gysj
