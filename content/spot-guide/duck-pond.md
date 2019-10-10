@@ -13,7 +13,7 @@ Its best **2 hours either side of High Tide**, but can be ridden at most states 
 
 ## Location
 
-The **Duck Pond** is the local name for the part of the **Exe Eastury**.
+The **Duck Pond** is the local name for the part of the **Exe Estuary**.
 
 The rigging / launch site is at the **Imperial Recreation Ground**, The Royale Ave, Exmouth, EX8 1DG.
 
@@ -24,7 +24,7 @@ View on [Google Maps](https://drive.google.com/open?id=1-ZO755CqpeceKO2cMKHwK26O
 <div class="image-container text-center">
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-ZO755CqpeceKO2cMKHwK26Ow30WJCRY" width="640" height="480"></iframe>
     <div class="caption">
-    Wildlife Refuge areas (red/purple) for indication only - for exact area use buoys and consult maps from Exe Eastury Partnership.
+    Wildlife Refuge areas (red/purple) for indication only - for exact area use buoys and consult maps from Exe Estuary Partnership.
     Duck Pond launch site is the green star to the north of the map near the town.
     </div>
 </div>
