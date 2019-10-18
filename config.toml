@@ -35,11 +35,11 @@ theme = "hugo-now-ui"
         weight = 20    
     
 
-    [[menu.footer]]
-        identifier = "contact"
-        name = "Contact Us"
-        url = "/contact-us/"
-        weight = 30    
+    # [[menu.footer]]
+    #     identifier = "contact"
+    #     name = "Contact Us"
+    #     url = "/contact-us/"
+    #     weight = 30    
 
     [[menu.footer]]
         identifier = "privacy"
@@ -89,19 +89,13 @@ theme = "hugo-now-ui"
         identifier = "code-of-conduct"
         name = "Code of Conduct"
         url = "/code-of-conduct/"
-        weight = 60
+        weight = 60    
 
-    [[menu.main]]
-        identifier = "code-of-conduct-old"
-        name = "Code of Conduct - Old"
-        url = "/code-of-conduct-old/"
-        weight = 70
-
-    [[menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about/"
-        weight = 80
+    # [[menu.main]]
+    #     identifier = "about"
+    #     name = "About"
+    #     url = "/about/"
+    #     weight = 80
 
     [[menu.main]]
         identifier = "membership"
