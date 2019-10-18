@@ -1,9 +1,11 @@
 # Old exe kiteboarders site
 
-/exmouth/                   /
+exmouth/                    /
+exmouth                    /
 code-of-conduct.html        /code-of-conduct/
 
 Locations.html              /spot-guide/
+locations.html              /spot-guide/
 Locations/duckponds.html    /spot-guide/duck-pond/
 
 weather.html                /weather/
