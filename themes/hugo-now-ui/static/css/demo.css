@@ -489,3 +489,8 @@ div.caption {
     font-size:smaller;
     font-style:italic;
 }
+
+ul li {
+    padding-top : 5px;
+    padding-bottom:5px;
+}

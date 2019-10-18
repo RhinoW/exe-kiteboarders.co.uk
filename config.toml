@@ -92,9 +92,9 @@ theme = "hugo-now-ui"
         weight = 60
 
     [[menu.main]]
-        identifier = "code-of-conduct-v2"
-        name = "Code of Conduct v2"
-        url = "/code-of-conduct-2/"
+        identifier = "code-of-conduct-old"
+        name = "Code of Conduct - Old"
+        url = "/code-of-conduct-old/"
         weight = 70
 
     [[menu.main]]

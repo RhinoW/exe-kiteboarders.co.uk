@@ -11,4 +11,4 @@ If the conditions are kiteable there will almost ceretainly be others around so 
 
 <div style="text-align:center; font-weight:bold; padding-bottom:10px">Don't be the KOOK of the beach, don't hurt others or yourself & DON'T GET KITESURFING BANNED</div>
 
-*Once you understand the spots, check the [Weather](/weather) page for tips on how to find out whats predicted and whats actually going on.*
+*Once you understand the spots, check the [Weather](/weather) page for tips on how to find out what's predicted and what's actually going on.*
