@@ -28,11 +28,11 @@ theme = "hugo-now-ui"
         url = "https://www.facebook.com/groups/exmouthkitesurf/"
         weight = 10    
 
-    # [[menu.footer]]
-    #     identifier = "contact"
-    #     name = "Contact Us"
-    #     url = "/contact-us/"
-    #     weight = 30    
+    [[menu.footer]]
+         identifier = "contact"
+         name = "Contact Us"
+         url = "/contact-us/"
+         weight = 30    
 
     [[menu.footer]]
         identifier = "privacy"
