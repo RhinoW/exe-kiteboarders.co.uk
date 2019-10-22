@@ -13,7 +13,6 @@ description: "Useful links for the kite-surfers in Exmouth"
 (Great for introducing yourselve, discussions, asking for advice and finding lost gear!)
 
 * [Exmouth Kitesurfers](https://www.facebook.com/groups/exmouthkitesurf/)
-* [Exe Kiteboarders](https://www.facebook.com/groups/776864838993273/)
 
 ## Local Instructors
 

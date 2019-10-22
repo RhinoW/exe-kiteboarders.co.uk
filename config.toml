@@ -26,14 +26,7 @@ theme = "hugo-now-ui"
         identifier = "facebook"
         pre = "<i class='fa fa-facebook'></i>"
         url = "https://www.facebook.com/groups/exmouthkitesurf/"
-        weight = 10   
-
-    [[menu.footer]]
-        identifier = "facebook2"
-        pre = "<i class='fa fa-facebook'></i>"
-        url = "https://www.facebook.com/groups/776864838993273/"
-        weight = 20    
-    
+        weight = 10    
 
     # [[menu.footer]]
     #     identifier = "contact"
