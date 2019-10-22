@@ -20,7 +20,7 @@ View on [Google Maps](https://drive.google.com/open?id=1-ZO755CqpeceKO2cMKHwK26O
 <div class="image-container text-center">
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-ZO755CqpeceKO2cMKHwK26Ow30WJCRY" width="640" height="480"></iframe>
     <div class="caption">
-    Swimming area (red) in Mear Rocks Back is for indication only - for exact area look for RNLI flags.
+    Swimming area (red) in Maer Rocks Bay is for indication only - for exact area look for RNLI flags.
     Seafront launch site is the green star to the south of the map on the... beach!
     </div>
 </div>
@@ -28,7 +28,7 @@ View on [Google Maps](https://drive.google.com/open?id=1-ZO755CqpeceKO2cMKHwK26O
 <br>
 
 * Head for the Exmouth Seafront and park in either Queens Drive Carpark or the roadside parking alongside Queens Drive. Head across the road to the semi-official launch spot. There may or may not be a sign there but just look out for other kiters - if it's a kiteable day there is almost always someone out. 
-* On very busy summer days you may have to park further out - head East towards the lifeboat station and the car park up Mear Road.
+* On very busy summer days you may have to park further out - head East towards the lifeboat station and the car park up Maer Road.
 
 ## Best Conditions
 
@@ -70,7 +70,7 @@ View on [Google Maps](https://drive.google.com/open?id=1-ZO755CqpeceKO2cMKHwK26O
 * **Boards are lost in this area on a regular basis** despite other kite-surfers helping bring them back to the beach. **Write your name/number on the board in marker pen** or get a sticker - you may then get it back and it will stop the coastguard (who should be notified of loss on their non-emergency number) sending out helicopters or the RNLI to look for you.
 * The **beach can get busy in summer**. Be courteous and use the semi-official launch area, get and give help to launch and land. Don't leave your lines all over. Don't fly/jump/drop/crash your kite over the beach. Check for other kiters / beach users before you launch and let them pass by first. Just **"don't be a kook"**
 * **Stay OUT of the 'swimming area' when it's in use** - its patrolled by the RNLI and busy in summer. Don't go between the red/yellow flags until you're at least 100m off shore.
-* When not in use by others, the 'swimming area' near Mear Rocks & the lifeboat station is shallow and out of the tide so good for learning and when the tide is causing problems (otherwise start well upwind and get over and behind Pole Sands to get out of the tide)
+* When not in use by others, the 'swimming area' near Maer Rocks & the lifeboat station is shallow and out of the tide so good for learning and when the tide is causing problems (otherwise start well upwind and get over and behind Pole Sands to get out of the tide)
 
 
 

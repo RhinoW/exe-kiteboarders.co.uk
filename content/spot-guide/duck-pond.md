@@ -55,7 +55,7 @@ View on [Google Maps](https://drive.google.com/open?id=1-ZO755CqpeceKO2cMKHwK26O
 ## Hazards
 
 * The Duck Pond area is shallow - a lot of it is waist deep at high tide but there are deeper areas.
-* As the tide start going out you will find yourself in just a few inches.
+* As the tide starts going out you will find yourself in just a few inches.
 * Being shallow can give a false sense of security sometimes. Most kitesurfing injuries are due to hitting 'stuff' and not in open water. On the water there are areas with sandbanks, buoys and boats (if nothing else these are great at tearing through expensive kites and lines). Around the sides there are concrete embankments, trees, signs, cars, *a train* and even sometimes a funfair.
 * **The launch site is a particular hazard**, especially if its gusty and the grass is slippy and wet. If you're a beginner consider arriving early so you can setup and launch on the sand.
 * That's not to say it's a dangerous spot as it is great for beginners (especially Kings Lake), but it does have hazards just like any other site.
@@ -64,7 +64,7 @@ View on [Google Maps](https://drive.google.com/open?id=1-ZO755CqpeceKO2cMKHwK26O
 * The Exe Estuary is an important site for wildlife, including Sites of Special Scientific Interest (SSSI) and a Special Protection Area (SPA). During winter, tens of thousands of birds depend upon the Exe to rest and feed on their long migratory journeys from areas as far away as Siberia.
 * There are two Wildlife Refuges in operation - in pink on the map.
 * The main one (for us) is to the East (town side) of the launch and is **active between 15th September and the 31st of December**
-* There is also a permeant one around Dawlish Warren
+* There is also a permanent one around Dawlish Warren
 
 <div class="image-container text-center">
 <a href="/images/exmouth/duckpond-map.png">
