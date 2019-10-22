@@ -43,13 +43,14 @@ Read the spot [Exmouth Kitesurfing Spot Guide](/spot-guide/) for detailed inform
 
 <h2><a name="rights-of-way">Rights of way</a></h2>
 
+* **Kiteboarders using the seafront should give way to other water users** - maintain a 50m clearance and/or retreat to a safe zone outside of the navigational channel when other craft approach.
 * Starboard tack (right hand forward) has right of way
 * The rider on the port (left hand forward) tack gives way to the rider on starboard tack.
 * The upwind rider gives way to the downwind rider.
 * The overtaking rider keeps clear and should pass up-wind of the rider being passed. The upwind rider should fly their kite higher and clearly signal to the other rider that they intend to pass. The downwind rider should lower their kite where it is possible to do so safely.
 * The rider leaving the beach has right of way over a rider returning to the beach from the water.
 Before jumping check behind and downwind of you and always maintain a safe distance from other riders or obstacles. If in doubt, don’t jump!
-* Kiteboarders using the seafront should give way to other water users and retreat to a safe zone outside of the navigational channel when other craft approach.
+
 ![BKSA Rules of the road](/images/bksa_rules_of_the_road.jpg)
 
 ## Equipment

@@ -9,6 +9,8 @@ Works best in **S, SE and ESE** as the wind comes in 'clean' off the sea. SW wor
 
 The Channel just in front of the beach has a very strong tide and the area can get very busy in summer so it's for **experienced kiters only**, unless you have boat support to get you out to the sandbank.
 
+Kitesurfers must give way to _all_ other vessels in the Navigation Channel and maintain a 50m clearance.
+
 <!--more-->
 
 ## Location
@@ -18,7 +20,7 @@ View on [Google Maps](https://drive.google.com/open?id=1-ZO755CqpeceKO2cMKHwK26O
 <div class="image-container text-center">
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-ZO755CqpeceKO2cMKHwK26Ow30WJCRY" width="640" height="480"></iframe>
     <div class="caption">
-    Swimming area (red) for indication only - for exact area look for RNLI flags.
+    Swimming area (red) in Mear Rocks Back is for indication only - for exact area look for RNLI flags.
     Seafront launch site is the green star to the south of the map on the... beach!
     </div>
 </div>
@@ -63,7 +65,8 @@ View on [Google Maps](https://drive.google.com/open?id=1-ZO755CqpeceKO2cMKHwK26O
 * Especially when the tide is running fast if you **drop your kite anywhere near a channel marker buoy it will be torn to shreds**. They come up quick when you are floating along at 10mph with the tide so keep clear. 
 * *(10mph is 4 meters per second so in about 5 seconds you will have travelled the length of your kite lines - think about then when close and up current of the buoys!)*
 * If you do get snagged prepare to cut the kite loose and save yourself - you can't fight that sort of current.
-* The **channel area can get very busy with kites, windsurfers, boats and other water craft** so be sure you know your [Right Of Way rules in respect to other kitesurfers](/code-of-conduct/#rights-of-way) and **stay out of the way of boats and other vessels.** They may well be *restricted in their room to manoeuvre* even when under power so that trumps your "Starboard Tack". Regardless they are bigger and have many sharp pointy bits. Check up-wind (behind you) occasionally to see what's sneaking up on you.
+* The **channel area can get very busy with kites, windsurfers, boats and other water craft** so be sure you know your [Right Of Way rules in respect to other kitesurfers](/code-of-conduct/#rights-of-way) and **stay out of the way of boats and other vessels.** They may well be *restricted in their room to manoeuvre* even when under power so that trumps any "Power v Sail" or "Starboard Tack", regardless they are bigger and have many sharp pointy bits! 
+* Check up-wind (behind you) occasionally to see what's sneaking up on you.
 * **Boards are lost in this area on a regular basis** despite other kite-surfers helping bring them back to the beach. **Write your name/number on the board in marker pen** or get a sticker - you may then get it back and it will stop the coastguard (who should be notified of loss on their non-emergency number) sending out helicopters or the RNLI to look for you.
 * The **beach can get busy in summer**. Be courteous and use the semi-official launch area, get and give help to launch and land. Don't leave your lines all over. Don't fly/jump/drop/crash your kite over the beach. Check for other kiters / beach users before you launch and let them pass by first. Just **"don't be a kook"**
 * **Stay OUT of the 'swimming area' when it's in use** - its patrolled by the RNLI and busy in summer. Don't go between the red/yellow flags until you're at least 100m off shore.

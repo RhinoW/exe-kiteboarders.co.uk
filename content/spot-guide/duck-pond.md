@@ -9,6 +9,8 @@ It's best **2 hours either side of High Tide**, but can be ridden at most states
 
 **The Duck Pond has a Wildlife Refuge area active from <span style="color:red">15th September to the end of December</span> and it's vital we keep out of this area.**
 
+Kitesurfers must give way to _all_ other vessels in the Navigation Channel and maintain a 50m clearence.
+
 <!--more-->
 
 ## Location

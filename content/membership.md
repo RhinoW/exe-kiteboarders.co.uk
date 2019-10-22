@@ -9,7 +9,7 @@ description: 3rd Party Insurance and a strong local & national voice.
 * Associations and clubs carry a lot of clout at meetings with various authorities - they want to deal with well organised groups, not try and herd thousands of wild cats.
 * Exe-Kiteboarders have represented Kite sports with various authorities over the years and there have been times when there has been a very real prospect of bans and restrictions being introduced.    
 * British Kitesports set the standard for instruction in this country and many places worldwide and ensure those standards are kept up with regular re-certification.
-* [**British Kitesports also provide insurance**](https://www.britishkitesports.org/join-british-kitesports/british-kitesports-association-insurance-policy/) that is highly recommended  wherever you go and mandatory at some spots.
+* Membership of [**British Kitesports also provide insurance**](https://www.britishkitesports.org/join-british-kitesports/british-kitesports-association-insurance-policy/) that is highly recommended  wherever you go and is mandatory at some spots.
 <br>
 <br>
 <div class="text-center">
