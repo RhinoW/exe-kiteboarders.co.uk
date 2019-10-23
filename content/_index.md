@@ -20,3 +20,9 @@ The two locations allow kite and wind surfing in a huge variety of conditions an
 Please read the **[spot guides](/spot-guide/)** and abide by the **[code of conduct](/code-of-conduct/)**, which has been developed in association with the Exe Estuary Management Partnership and British Kitesports and is based on common sense and co-operation.
 
 3rd Party Insurance is strongly recomended at all sites so please consider joining [British Kitesports and Exe-Kiteboarders](/membership) for 3rd party insurance and a strong local and national voice with the authorities.
+
+<span>
+<div class="text-center" style="padding-top:30px">
+<a href="/membership"><img src="/exekiteboarders-full-med.png"></a>
+</div>
+</span>
