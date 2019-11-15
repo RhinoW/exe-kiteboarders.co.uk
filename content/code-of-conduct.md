@@ -38,12 +38,12 @@ Read the spot [Exmouth Kitesurfing Spot Guide](/spot-guide/) for detailed inform
 * Observe beach and water zoning, navigation channels and similar.
 * Unless dedicated rescue cover is available do not sail in offshore winds. If in doubt don’t go out.
 * All riders should be familiar with rescue signals and participants should regularly practice deep water pack downs and self-rescue. These techniques are taught by all qualified British Kitesports instructors and schools.
-* Never kiteboard within 75-metres upwind of any moored vessel.
-* Never kiteboard in or near to the bathing areas and swimmers, buoys and boat moorings.
+* Keep a safe distance from any moored vessel, boys and boat moorings.
+* Never kiteboard in or near to the bathing areas and swimmers when in use or the lifeguards are present.
 
 <h2><a name="rights-of-way">Rights of way</a></h2>
 
-* **Kiteboarders using the seafront should give way to other water users** - maintain a 50m clearance and/or retreat to a safe zone outside of the navigational channel when other craft approach.
+* **Kiteboarders using the seafront should give way to other water users** - maintain an adequate clearance and/or retreat to a safe zone outside of the navigational channel when other craft approach.
 * Starboard tack (right hand forward) has right of way
 * The rider on the port (left hand forward) tack gives way to the rider on starboard tack.
 * The upwind rider gives way to the downwind rider.
