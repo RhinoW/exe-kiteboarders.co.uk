@@ -47,8 +47,10 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
 </style>
 
 <div class="video-container text-center">
-    <iframe src="https://relay.viewcam.co.uk/nciexmouth/embed.html" frameborder="0" allowfullscreen=""></iframe>
+    <iframe src="https://relay.viewcam.co.uk/nciexmouth/embed.html" frameborder="0" allowfullscreen=""></iframe>    
 </div>
+
+<caption><em style="font-size:70%">Webcam by <a href="https://www.exmouthcoastwatch.co.uk/" target="_blank">Exmouth NCI Coastwatch</a></em></caption>
 
 </div>
 
@@ -71,7 +73,7 @@ height = 395 for all
 <p  class="mb-0"><strong>Duckpond - live wind</strong></p>
 <div class="windguru-container text-center">
 <iframe src="https://www.windguru.cz/wglive-iframe.php?s=1882&wj=knots&tj=c&m=3&gsize=200&msize=200&show=g,c" frameborder="0"></iframe>
-<caption><em style="font-size:70%">Charts by <a href="https://www.windguru.cz/47887" target="_blank">Windguru</a> and weather stations sponsered by <a href="https://www.edgewatersports.com/" target="_blank">EDGE Watersports</a></em></caption>
+<caption><em style="font-size:70%">Charts by <a href="https://www.windguru.cz/47887" target="_blank">Windguru</a> and weather stations sponsored by <a href="https://www.edgewatersports.com/" target="_blank">EDGE Watersports</a></em></caption>
 </div>
     
 
