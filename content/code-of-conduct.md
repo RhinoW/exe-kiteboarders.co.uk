@@ -25,6 +25,7 @@ Read the spot [Exmouth Kitesurfing Spot Guide](/spot-guide/) for detailed inform
 
 * Be sure that you can handle the prevailing weather conditions and know the forecast.
 * Select the correct kite size for the conditions and forecast. If you don’t have an appropriately sized kite, don’t take a risk with the wrong size.
+* Never tether yourself to a fixed object prior to flying a power kite.
 * Ensure you fully understand the tidal currents and how they might affect the riding area. The currents off [Exmouth seafront](/spot-guide/seafront) can be more like a fast flowing river and are potentially dangerous.
 * Kite with a buddy or, if that is not possible, tell someone where you are and when you will be back.
 * Select a safe launch site. Find out about and observe local rules and restrictions. Treat other stakeholders in the places we fly with respect.
@@ -32,8 +33,8 @@ Read the spot [Exmouth Kitesurfing Spot Guide](/spot-guide/) for detailed inform
 * Take extra care at busy locations. On occasions, it might be too busy to launch safely unless a specific launch area is in operation.
 * Prevent kites from re-launching by weighting them with sand or other ballast; use a ballast bag to avoid damage to your kite.
 * Keep your lines away from people, animals and craft on land or water. Wind up your lines if leaving your kite. Do not leave your equipment unattended on the beach for an extended period.
-* It is recommend that a helmet or quality head protector that fits correctly is worn at all times while using kites
-* Use of a protective helmet may reduce the risk of death or injury. Consider carefully the extra risk you may be taking if you decide not to wear one. All children under the age of 8 years old must be supervised by a responsible adult
+* You are advised to wear a suitable helmet.
+* All children under the age of 8 years old must be supervised by a responsible adult
 * You should be a competent swimmer. Never ride so far away from the shore that you cannot swim back in an emergency.
 * Observe beach and water zoning, navigation channels and similar.
 * Unless dedicated rescue cover is available do not sail in offshore winds. If in doubt don’t go out.
@@ -43,7 +44,7 @@ Read the spot [Exmouth Kitesurfing Spot Guide](/spot-guide/) for detailed inform
 
 <h2><a name="rights-of-way">Rights of way</a></h2>
 
-* **Kiteboarders using the seafront should give way to other water users** - maintain an adequate clearance and/or retreat to a safe zone outside of the navigational channel when other craft approach.
+* **Kiteboarders using the seafront should abide by navigation laws and must give way to all larger and less manoeuvrable vessles in and around the river and Navigation channels and maintain an adequate clearance**.
 * Starboard tack (right hand forward) has right of way
 * The rider on the port (left hand forward) tack gives way to the rider on starboard tack.
 * The upwind rider gives way to the downwind rider.
@@ -57,13 +58,14 @@ Before jumping check behind and downwind of you and always maintain a safe dista
 
 * Equipment manufacturer’s instructions and safety guidelines must be read and followed. Understand the limitations of the equipment and practice use of all safety mechanisms until you are familiar with them.
 * Equipment must be regularly checked for wear and tear and repaired or replaced before use if required. If in doubt seek advice from an authorised dealer, approved British Kitesports instructor or a more experienced local rider.
-* Always use an effective kite leash and safety system so you can depower your kite instantly in the event of an emergency.
+* Always use an effective kite leash and safety system so you can depower your kite instantly in the event of an emergency, ensure your safety systems are working and you instinctively know how to use them.
+* Carry a line cutter.
 
 ## General
 
 * Pay attention to your surroundings, your equipment and your fellow kiters. Think about what you are doing and take your time; your brain is your most important piece of safety equipment, so use it!
-* If you lose your kite or board whilst on the water or land, always report you are safe to the rescue services so they do not waste time and money looking for you.
-* It is recommended that you write your name, address and contact number on all your equipment. If you are concerned about permanently marking your equipment, use spinnaker repair tape to write on and fix this to any equipment.
+* It is recommended that you write your name, address and contact number on all your equipment using either purpose made stickers or just permenant marker pen. It will help you get your kit back should you loose it and avoid the emergency services waste time looking for you.
+* If you lose your kite or board whilst on the water or land, always report you are safe to the coastguard non emergency number (<a href="tel:02392 552100">02392 552100<a/>) so they do not waste time and money looking for you.
 * If new or careless kiters show up at your flying site, talk to them with your friends about what´s at risk. Take the time to explain how to safely get into the sport and where to obtain qualified professional instruction.
 
 ## Wildlife Refuge - Exmouth Duckpond
