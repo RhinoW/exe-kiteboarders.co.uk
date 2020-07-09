@@ -5,23 +5,22 @@ description: "Kitesurfing from Exmouth Seafront"
 
 The main area is sheltered by a sandbank which provides fantastic flat water conditions at **low tide.**
 
-Works best in **S, SE and ESE** as the wind comes in 'clean' off the sea. SW works but is gusty as the wind is coming over the hills.
+Works best in **S, SE and ESE** as the wind comes in 'clean' off the sea. SW & W works but is gusty as the wind is coming over the hills.
 
 The Channel just in front of the beach has a very strong tide and the area can get very busy in summer so it's for **experienced kiters only**, unless you have boat support to get you out to the sandbank.
 
-Kitesurfers must give way to _all_ other vessels in the Navigation Channel and maintain an adequate clearance.
+Stay out of the swimming areas when in use.
+
+Kitesurfers <ins>must</ins> give way to all larger and less manoeuverable craft in and around the river and Navigation Channels and maintain an adequate clearence.
 
 <!--more-->
 
 ## Location
 
-View on [Google Maps](https://drive.google.com/open?id=1-ZO755CqpeceKO2cMKHwK26Ow30WJCRY&usp=sharing)
-
 <div class="image-container text-center">
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-ZO755CqpeceKO2cMKHwK26Ow30WJCRY" width="640" height="480"></iframe>
+    <img src="/images/exmouth/seafront-map-simple.png" alt="Exmouth Duckpond map" width="500">
     <div class="caption">
-    Swimming area (red) in Maer Rocks Bay is for indication only - for exact area look for RNLI flags.
-    Seafront launch site is the green star to the south of the map on the... beach!
+    Swimming area in Maer Rocks Bay is for indication only - for exact area look for RNLI flags and keep well clear.
     </div>
 </div>
 
@@ -31,8 +30,6 @@ View on [Google Maps](https://drive.google.com/open?id=1-ZO755CqpeceKO2cMKHwK26O
 * On very busy summer days you may have to park further out - head East towards the lifeboat station and the car park up Maer Road.
 
 ## Best Conditions
-
-
 
 <div class="row">
   <div class="col-md-8 col-md-push-8">
@@ -68,7 +65,7 @@ View on [Google Maps](https://drive.google.com/open?id=1-ZO755CqpeceKO2cMKHwK26O
 * The **channel area can get very busy with kites, windsurfers, boats and other water craft** so be sure you know your [Right Of Way rules in respect to other kitesurfers](/code-of-conduct/#rights-of-way) and **stay out of the way of boats and other vessels.** They may well be *restricted in their room to manoeuvre* even when under power so that trumps any "Power v Sail" or "Starboard Tack", regardless they are bigger and have many sharp pointy bits and sometimes spinny choppy things!
 * Be especially aware of the **Lifeboats** (both Inshore and All Weather) and other boats that **may be towing**. The tow line can be long and difficult to see. 
 * Check up-wind (behind you) occasionally to see what's sneaking up on you.
-* **Boards are lost in this area on a regular basis** despite other kite-surfers helping bring them back to the beach. **Write your name/number on the board in marker pen** or get a sticker - you may then get it back and it will stop the coastguard (who should be notified of loss on their non-emergency number) sending out helicopters or the RNLI to look for you.
+* **Boards are lost in this area on a regular basis** despite other kite-surfers helping bring them back to the beach. **Write your name/number on the board in marker pen** or get a sticker - you may then get it back and it will stop the coastguard (who should be notified of loss on their non-emergency number <a href="tel:02392 552100">02392 552100<a/>) sending out helicopters or the RNLI to look for you.
 * The **beach can get busy in summer**. Be courteous and use the semi-official launch area, get and give help to launch and land. Don't leave your lines all over. Don't fly/jump/drop/crash your kite over the beach. Check for other kiters / beach users before you launch and let them pass by first. Just **"don't be a kook"**
 * **Stay OUT of the 'swimming area' when it's in use** - its patrolled by the RNLI and busy in summer. Don't go between the red/yellow flags until you're at least 100m off shore.
 * When not in use by others, the 'swimming area' near Maer Rocks & the lifeboat station is shallow and out of the tide so good for learning and when the tide is causing problems (otherwise start well upwind and get over and behind Pole Sands to get out of the tide)
