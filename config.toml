@@ -20,6 +20,9 @@ theme = "hugo-now-ui"
         
     tint = "orange" # If change from orange then lose some othter formatting - probably have to muck around with css generators?
 
+    # Using GTag manager not analytics code so can't use _internal/google_analytics.html template - implemented in head.html     
+    google_tag_manager = "UA-140157010-3"
+
 [menu]           
 
     [[menu.footer]]
@@ -95,4 +98,10 @@ theme = "hugo-now-ui"
         name = "Membership"
         url = "/membership/"
         weight = 90
+
+    # [[menu.main]]
+    #     identifier = "news"
+    #     name = "News"
+    #     url = "/news/"
+    #     weight = 100
     

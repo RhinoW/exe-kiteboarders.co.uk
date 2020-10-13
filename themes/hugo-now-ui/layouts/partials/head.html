@@ -1,28 +1,43 @@
 <head>
-    <meta charset="utf-8" />
-    
-    <!-- Fav icons https://realfavicongenerator.net -->
-    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#ffc40d">
-    <meta name="theme-color" content="#ffffff">
-    
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <title>{{ with .Page.Title }}{{ . }} - {{ end}}{{.Site.Title}}</title>
-    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
-    <!--     Fonts and icons     -->
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
-    <!-- CSS Files -->
-    <link href="{{ "css/bootstrap.min.css" | relURL }}" rel="stylesheet" />
-    <link href="{{ "css/now-ui-kit.css?v=1.1.0" | relURL }}" rel="stylesheet" />
-    <link href="{{ "css/demo.css" | relURL }}" rel="stylesheet" />
-    
+  <meta charset="utf-8" />
+
+  {{ if not .Site.IsServer }}
+  {{ with .Site.Params.google_tag_manager }}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', '{{ . }}');
+  </script>
+  {{ end }}
+  {{ end }}
+
+  <!-- Fav icons https://realfavicongenerator.net -->
+  <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#ffffff">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <title>{{ with .Page.Title }}{{ . }} - {{ end}}{{.Site.Title}}</title>
+  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no'
+    name='viewport' />
+  <!--     Fonts and icons     -->
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
+  <!-- CSS Files -->
+  <link href="{{ "css/bootstrap.min.css" | relURL }}" rel="stylesheet" />
+  <link href="{{ "css/now-ui-kit.css?v=1.1.0" | relURL }}" rel="stylesheet" />
+  <link href="{{ "css/demo.css" | relURL }}" rel="stylesheet" />
+
   {{ range .Site.Params.custom_css -}}
-    <link rel="stylesheet" href="{{ . | absURL }}">
+  <link rel="stylesheet" href="{{ . | absURL }}">
   {{- end }}
-    
+
 </head>
