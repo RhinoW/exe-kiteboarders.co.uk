@@ -13,26 +13,9 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
 <div class="col-lg-4 col-sm-12 text-center">
     {{< tide-times-exmouth >}}
 </div>
-<div class="col-lg-8 col-sm-12 text-center">
+<div class="col-lg-8 col-sm-12 text-center align-self-center">
 
 <style>
-  .video-container {
-    overflow: hidden;
-    position: relative;
-    width:100%;
-}
-.video-container::after {
-    padding-top: 56.25%;
-    display: block;
-    content: '';
-}
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
 .windguru-container {
     overflow: hidden;
     position: relative;
@@ -46,11 +29,12 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
 }
 </style>
 
-<div class="video-container text-center">
-    <iframe src="https://relay.viewcam.co.uk/nciexmouth/embed.html" frameborder="0" allowfullscreen=""></iframe>    
+<div class="video-container text-center mt-2">
+    <a href="https://exmouthcoastwatch.co.uk/webcam/" target="_blank">
+        Exmouth NCI Coastwatch webcam
+        <i class="fa fa-video-camera ml-2" style="font-size:200%" aria-hidden="true"></i>
+    </a>
 </div>
-
-<caption><em style="font-size:70%">Webcam by <a href="https://www.exmouthcoastwatch.co.uk/" target="_blank">Exmouth NCI Coastwatch</a></em></caption>
 
 </div>
 
