@@ -30,7 +30,7 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
 </style>
 
 <div class="video-container text-center mt-2">
-    <a href="https://exmouthcoastwatch.co.uk/webcam/" target="_blank">
+    <a href="https://exmouthcoastwatch.co.uk/webcam/" target="_blank" rel="noopener noreferrer">
         Exmouth NCI Coastwatch webcam
         <i class="fa fa-video-camera ml-2" style="font-size:200%" aria-hidden="true"></i>
     </a>
@@ -49,6 +49,8 @@ c = readings at bottom
 height = 395 for all
        = 315 for g,c
 -->
+
+<div class="text-danger m-3"><strong>WARNING</strong> - Currently the Seafront weather station is stuck showing S wind direction and the Duckpond station is out of order. See <strong><a href="https://exmouthcoastwatch.co.uk/weather/" target="_blank" rel="noopener noreferrer">NCI Weather Station</a></strong></div>
 
 <p class="mb-0"><strong>Seafront - live wind</strong></p>
 <div class="windguru-container text-center">
