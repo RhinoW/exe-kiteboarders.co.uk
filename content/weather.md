@@ -70,7 +70,7 @@ height = 395 for all
 * In general the
       * [Duck Pond](/spot-guide/duck-pond/) is better around High Tide with winds coming from the north.
       * [Sea Front](/spot-guide/seafront/) is better around Low Tide  with winds coming from the south.
-   * See the detailed <a href="/spot-guides/">Spot Guides</a> for more information
+   * See the detailed <a href="/spot-guide/">Spot Guides</a> for more information
 * [EDGE Watersports](https://www.edgewatersports.com/live-conditions/) - regularly  update a <strong>"Daily Report"</strong> and where and when is likely to be best depending on conditions and tide. Great for picking up not only when its good but also WHY so you can better understand weather (also on [Facebook](https://www.facebook.com/edgewatersports) )
 * [Tide Times](https://www.tidetimes.org.uk/exmouth-dock-tide-times)   
 * [Windguru - Exmouth](https://www.windguru.cz/47887)
