@@ -3,6 +3,9 @@ languageCode = "en-gb"
 title = "Exe Kiteboarders"
 theme = "hugo-now-ui"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
     # TODO - is description used in this?
     description = "Exmouth (Devon, UK) Kiteboarders"

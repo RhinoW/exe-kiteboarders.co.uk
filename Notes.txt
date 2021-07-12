@@ -42,6 +42,10 @@ hugo server -D
 # If want to access from other machine in network
 hugo server --bind=0.0.0.0 --baseURL=http://whistler:1313
 
+# Non default (1313) port
+
+hugo server -p 1234
+
 start chrome http://localhost:1313/
 
 code .
