@@ -109,7 +109,7 @@ To keep good relations please remember
 * KEEP WELL CLEAR of the swimming area (between the flags)
 * The seafront navigation channel is only suitable for experienced kitesurfers.
 * Keep an eye out to windward so you are not surprised at a vessel sneaking up behind you.
-* Kitesurfers must keep out of the way of larger and less maneuverable vessels as if they are "Restricted in their room to manoeuvre" then that trumps any "Power v Sail" or "Starboard Tack" in the right of way stakes.
+* Kitesurfers must keep out of the way of larger and less manoeuvrable vessels as if they are "Restricted in their room to manoeuvre" then that trumps any "Power v Sail" or "Starboard Tack" in the right of way stakes.
 * We can turn on a dime and need only a few inches of water so just be nice and give everyone a bit of room.
 * Don't pass close in front of a vessel even if you think you will clear it. What if you fall or drop the kite?
 * If you are passing to stern then don't cut it too close. Sure that wake looks tempting to launch off but if you cut it too close all the skipper sees is a kitesurfer hurtling directly towards them.
