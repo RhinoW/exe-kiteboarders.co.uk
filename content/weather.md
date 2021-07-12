@@ -115,7 +115,7 @@ To keep good relations please remember
 * If you are passing to stern then don't cut it too close. Sure that wake looks tempting to launch off but if you cut it too close all the skipper sees is a kitesurfer hurtling directly towards them.
 * **How about signal that you've seen a vessel with a friendly wave then take a short tack or two to give them plenty of room - it's the nice thing to do.**
 
-Please see the [spot guide](/spot-guide/seafront/) and [code of conduct](http://localhost:1234/code-of-conduct/) for more details <LINK>
+Please see the [spot guide](/spot-guide/seafront/) and [code of conduct](/code-of-conduct/) for more details <LINK>
 </div>
       </div>
       <div class="modal-footer">
