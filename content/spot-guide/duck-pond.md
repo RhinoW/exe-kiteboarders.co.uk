@@ -35,15 +35,12 @@ Parking is sometimes tight right by the "Rec Ground" so there are alternatives a
 
 <div class="row">
   <div class="col-8">
-
     <ul>
         <li>Best on a <strong>North Westerly (NW) wind</strong> but can be ridden when the wind is between West and North.</li>
         <li>Best <strong>2 hours either side of High Tide</strong> - but can be ridden at other states of the tide if you're happy to walk.</li>
         <li>If you are learning best 3 to 4 hours before high tide - see <strong>Kings Lake</strong> below
     </ul>
-
-    <p>Check the <a href="/weather/">weather</a> page for resources.</p>
-
+    <p>Check the <a href="/weather/">weather</a> page for resources.</p> 
   </div>
   <div class="col-4">
     <img src="/images/wind-rose_duckpond_small.png" alt="wind rose">
@@ -67,7 +64,7 @@ Parking is sometimes tight right by the "Rec Ground" so there are alternatives a
 
 <div class="image-container text-center">
   <a href="/images/exmouth/duckpond-map-simple.png">
-        <img src="/images/exmouth/duckpond-map-simple.png" alt="Exmouth Duckpond map" width="300px" />
+        <img src="/images/exmouth/duckpond-map-simple-general.png" alt="Exmouth Duckpond map" width="300px" />
   </a>
     <div class="caption">Wildlife reserves - click to zoom</div>
 </div>

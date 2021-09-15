@@ -33,7 +33,6 @@ Kitesurfers <ins>must</ins> give way to all larger and less manoeuverable craft 
 
 <div class="row">
   <div class="col-md-8 col-md-push-8">
-
     <ul>
         <li>Best in S, SE and ESE as the wind comes in 'clean' off the sea. SW works but is gusty as the wind is coming over the hills.</li>
         <li>Works at any state of the tide but best 2 hours before low tide for flat water and wind v tide. Higher states of tide can be ridden but tend to get very choppy.</li>
@@ -45,9 +44,7 @@ Kitesurfers <ins>must</ins> give way to all larger and less manoeuverable craft 
         </li>
         <li>Waves can be found further out and behind the sandbank - especially good when the wind is from the East quadrant.</li>
     </ul>
-
     <p>Check the <a href="/weather/">weather</a> page for resources.</p>
-
   </div>
   <div class="col-md-4 col-md-pull-4">
     <img src="/images/wind-rose-seafront_small.png" alt="wind rose">
