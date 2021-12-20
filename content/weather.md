@@ -20,13 +20,13 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
                 <i class="fa fa-video-camera ml-2" style="font-size:200%" aria-hidden="true"></i>
             </a>
         </div>
-        <div class="pt-3 pb-3">
+        <!-- <div class="pt-3 pb-3">
             <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#seafrontWarningModal">
                 <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> &nbsp; 
                 <strong>Seafront Warning</strong>
                 &nbsp; <i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
             </button>
-        </div>
+        </div> -->
     </div>
 </div>
 
@@ -92,7 +92,7 @@ height = 395 for all
 * [Interactive Webcam](http://www.exmouthcam.co.uk/webcam/)
 
 <!-- Navigation Channel warning modal -->
-<div class="modal fade" id="seafrontWarningModal" tabindex="-1" role="dialog" aria-labelledby="seafrontWarningModalLabel" aria-hidden="true" data-backdrop="static">
+<!-- <div class="modal fade" id="seafrontWarningModal" tabindex="-1" role="dialog" aria-labelledby="seafrontWarningModalLabel" aria-hidden="true" data-backdrop="static">
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">      
       <div class="modal-body">
@@ -123,10 +123,10 @@ Please see the [spot guide](/spot-guide/seafront/) and [code of conduct](/code-o
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <!-- Show warning on page load but just once  -->
-<script>
+<!-- <script>
     window.addEventListener("DOMContentLoaded",function() {
         const warningKey = "warnSeafrontOnce";
          if (!document.cookie.split('; ').find(row => row.startsWith(warningKey))) {            
@@ -134,4 +134,4 @@ Please see the [spot guide](/spot-guide/seafront/) and [code of conduct](/code-o
             $('#seafrontWarningModal').modal()   
         }        
     });
-</script>
+</script> -->
