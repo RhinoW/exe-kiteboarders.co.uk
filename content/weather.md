@@ -20,13 +20,17 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
                 <i class="fa fa-video-camera ml-2" style="font-size:200%" aria-hidden="true"></i>
             </a>
         </div>
-        <!-- <div class="pt-3 pb-3">
+        <div class="pt-3 pb-3">
             <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#seafrontWarningModal">
-                <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> &nbsp; 
-                <strong>Seafront Warning</strong>
-                &nbsp; <i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
+                <!-- <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> -->
+                <i class="fa fa-ship"></i>
+                 &nbsp; 
+                <strong>Seafront</strong> &nbsp; <i class="fa fa-ship"></i>
+                <br>&nbsp;<br>
+                 Christmas and Boxing Day Powerboat Racing
+                <!-- &nbsp; <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> -->                
             </button>
-        </div> -->
+        </div>
     </div>
 </div>
 
@@ -91,47 +95,37 @@ height = 395 for all
 
 * [Interactive Webcam](http://www.exmouthcam.co.uk/webcam/)
 
-<!-- Navigation Channel warning modal -->
-<!-- <div class="modal fade" id="seafrontWarningModal" tabindex="-1" role="dialog" aria-labelledby="seafrontWarningModalLabel" aria-hidden="true" data-backdrop="static">
+<!-- Warning modal -->
+<div class="modal fade" id="seafrontWarningModal" tabindex="-1" role="dialog" aria-labelledby="seafrontWarningModalLabel" aria-hidden="true" data-backdrop="static">
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">      
       <div class="modal-body">
 <div>
 
-**The Harbour Master has received complaints from boaters and skippers of larger vessels about Kitesurfers getting too close and/or hindering vessels transiting the navigation channel.**
+**Powerboat racing on seafront Boxing Day and New Years day**
 
-_(The navigation channel starts at the safe water mark out to sea and runs along the sea front and up into the estuary)._
+It is expected to start about 11:30 and take about half an hour but can be any time between 11am and 3pm depending on conditions.
 
+The course will run from Mamhead Slipway out to the Safe Water Mark (first bouy out ot sea) - please keep clear.
 
-On a busy summer day it can be intimidating for skippers trying to transit the channel when faced with a large number of kitesurfers (or a large number of any vessels for that matter) and they may have no idea of your intentions or even if you've seen them. **You may know that you're going nowhere near them, but they may not know that.**
+More details from the [Exeter Port Authority](https://www.facebook.com/ExeterPortAuthority/posts/2121978271285031) and [Exe Power Boat & Ski Club](http://www.exmouthskiclub.com/)
 
-To keep good relations please remember
-* KEEP WELL CLEAR of the swimming area (between the flags)
-* The seafront navigation channel is only suitable for experienced kitesurfers.
-* Keep an eye out to windward so you are not surprised at a vessel sneaking up behind you.
-* Kitesurfers must keep out of the way of larger and less manoeuvrable vessels as if they are "Restricted in their room to manoeuvre" then that trumps any "Power v Sail" or "Starboard Tack" in the right of way stakes.
-* We can turn on a dime and need only a few inches of water so just be nice and give everyone a bit of room.
-* Don't pass close in front of a vessel even if you think you will clear it. What if you fall or drop the kite?
-* If you are passing to stern then don't cut it too close. Sure that wake looks tempting to launch off but if you cut it too close all the skipper sees is a kitesurfer hurtling directly towards them.
-* **How about signal that you've seen a vessel with a friendly wave then take a short tack or two to give them plenty of room - it's the nice thing to do.**
-
-Please see the [spot guide](/spot-guide/seafront/) and [code of conduct](/code-of-conduct/) for more details <LINK>
 </div>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-success mx-auto" data-dismiss="modal">OK, I will play nice - show me the Weather!</button>        
+        <button type="button" class="btn btn-success mx-auto" data-dismiss="modal">Gotcha, show me the Weather!</button>        
       </div>
     </div>
   </div>
-</div> -->
+</div>
 
 <!-- Show warning on page load but just once  -->
-<!-- <script>
+<script>
     window.addEventListener("DOMContentLoaded",function() {
-        const warningKey = "warnSeafrontOnce";
+        const warningKey = "warnRaceOnce";
          if (!document.cookie.split('; ').find(row => row.startsWith(warningKey))) {            
             document.cookie = warningKey + "=true; expires=Fri, 31 Dec 9999 23:59:59 GMT; Secure";
             $('#seafrontWarningModal').modal()   
         }        
     });
-</script> -->
+</script> 
