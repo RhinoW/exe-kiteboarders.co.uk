@@ -27,7 +27,7 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
                  &nbsp; 
                 <strong>Seafront</strong> &nbsp; <i class="fa fa-ship"></i>
                 <br>&nbsp;<br>
-                 Christmas and Boxing Day Powerboat Racing
+                 New Years Day Powerboat Racing
                 <!-- &nbsp; <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> -->                
             </button>
         </div>
