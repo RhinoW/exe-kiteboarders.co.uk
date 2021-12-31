@@ -102,11 +102,13 @@ height = 395 for all
       <div class="modal-body">
 <div>
 
-**Powerboat racing on seafront Boxing Day and New Years day**
+**Powerboat racing on seafront New Years day**
 
 It is expected to start about 11:30 and take about half an hour but can be any time between 11am and 3pm depending on conditions.
 
-The course will run from Mamhead Slipway out to the Safe Water Mark (first bouy out ot sea) - please keep clear.
+The course is expected to run from Mamhead Slipway to opposite the Imperial Hotel, but can be anywhere between Mamhead and the Safe Water Mark (first bouy out ot sea).
+
+**For safety and good relations please keep well clear.**
 
 More details from the [Exeter Port Authority](https://www.facebook.com/ExeterPortAuthority/posts/2121978271285031) and [Exe Power Boat & Ski Club](http://www.exmouthskiclub.com/)
 
@@ -122,7 +124,7 @@ More details from the [Exeter Port Authority](https://www.facebook.com/ExeterPor
 <!-- Show warning on page load but just once  -->
 <script>
     window.addEventListener("DOMContentLoaded",function() {
-        const warningKey = "warnRaceOnce";
+        const warningKey = "warnRaceOnce2";
          if (!document.cookie.split('; ').find(row => row.startsWith(warningKey))) {            
             document.cookie = warningKey + "=true; expires=Fri, 31 Dec 9999 23:59:59 GMT; Secure";
             $('#seafrontWarningModal').modal()   
