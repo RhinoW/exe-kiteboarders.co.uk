@@ -20,8 +20,8 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
                 <i class="fa fa-video-camera ml-2" style="font-size:200%" aria-hidden="true"></i>
             </a>
         </div>
-        <div class="pt-3 pb-3">
-            <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#seafrontWarningModal">
+        <!-- <div class="pt-3 pb-3">
+            <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#seafrontWarningModal"> -->
                 <!-- <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> -->
                 <!-- <i class="fa fa-ship"></i>
                  &nbsp; 
@@ -29,8 +29,8 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
                 <br>&nbsp;<br>
                  New Years Day Powerboat Racing -->
                 <!-- &nbsp; <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> -->                
-            </button>
-        </div>
+            <!-- </button>
+        </div> -->
     </div>
 </div>
 
