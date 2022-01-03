@@ -23,11 +23,11 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
         <div class="pt-3 pb-3">
             <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#seafrontWarningModal">
                 <!-- <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> -->
-                <i class="fa fa-ship"></i>
+                <!-- <i class="fa fa-ship"></i>
                  &nbsp; 
                 <strong>Seafront</strong> &nbsp; <i class="fa fa-ship"></i>
                 <br>&nbsp;<br>
-                 New Years Day Powerboat Racing
+                 New Years Day Powerboat Racing -->
                 <!-- &nbsp; <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> -->                
             </button>
         </div>
@@ -96,7 +96,8 @@ height = 395 for all
 * [Interactive Webcam](http://www.exmouthcam.co.uk/webcam/)
 
 <!-- Warning modal -->
-<div class="modal fade" id="seafrontWarningModal" tabindex="-1" role="dialog" aria-labelledby="seafrontWarningModalLabel" aria-hidden="true" data-backdrop="static">
+
+<!-- <div class="modal fade" id="seafrontWarningModal" tabindex="-1" role="dialog" aria-labelledby="seafrontWarningModalLabel" aria-hidden="true" data-backdrop="static">
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">      
       <div class="modal-body">
@@ -119,10 +120,10 @@ More details from the [Exeter Port Authority](https://www.facebook.com/ExeterPor
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <!-- Show warning on page load but just once  -->
-<script>
+<!-- <script>
     window.addEventListener("DOMContentLoaded",function() {
         const warningKey = "warnRaceOnce2";
          if (!document.cookie.split('; ').find(row => row.startsWith(warningKey))) {            
@@ -130,4 +131,4 @@ More details from the [Exeter Port Authority](https://www.facebook.com/ExeterPor
             $('#seafrontWarningModal').modal()   
         }        
     });
-</script> 
+</script>  -->
