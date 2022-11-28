@@ -1,6 +1,7 @@
 ---
 title: Christmas 2019
 date : 2019-12-10
+draft: True
 ---
 
 The Exe Kiteboarders club has been a little 'stealth' of late - but plenty has still been going on behind the scenes!

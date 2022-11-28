@@ -1,6 +1,7 @@
 ---
 title : "Bursary"
 description: "Exe Kiteboarders Youth Kite Foil Racing Bursary"
+draft: True
 ---
 
 To celebrate the inclusion of **Kite Foil Racing in the 2024 Paris Olympics** and some of the incredible local Kitesurfing talent, the Exe Kiteboarders Club are offering a small bursary to young aspiring Olympians to help with ongoing equipment and training costs.
