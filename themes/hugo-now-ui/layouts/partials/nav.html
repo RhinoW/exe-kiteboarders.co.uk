@@ -1,6 +1,6 @@
 <!-- Navbar -->  
   <!-- Scope complex with Hugo/Go template, see https://regisphilibert.com/blog/2018/02/hugo-the-scope-the-context-and-the-dot/ for explanation of $. -->
-  {{ .Page.Scratch.Set "firstUrlElement" (print "/" (index (split .URL "/") 1) "/" )}}
+  {{ .Page.Scratch.Set "firstUrlElement" (print "/" (index (split .RelPermalink "/") 1) "/" )}}
   {{ if eq (.Page.Scratch.Get "firstUrlElement") "//" }}
     {{ .Page.Scratch.Set "firstUrlElement" "/" }}
   {{ end }}  
