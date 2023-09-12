@@ -20,17 +20,18 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
                 <i class="fa fa-video-camera ml-2" style="font-size:200%" aria-hidden="true"></i>
             </a>
         </div>
-        <!-- <div class="pt-3 pb-3">
-            <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#seafrontWarningModal"> -->
-                <!-- <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> -->
-                <!-- <i class="fa fa-ship"></i>
-                 &nbsp; 
-                <strong>Seafront</strong> &nbsp; <i class="fa fa-ship"></i>
+        <div class="pt-3 pb-3">
+            <button type="button" onclick="window.location.href='/shred-fest/'" class="btn btn-info text-dark" Xdata-toggle="modal" Xdata-target="#seafrontWarningModal">                                 
+                <img src="/icons/party.png">
+                <strong>Shred Fest - 16/17th September</strong>
+                <img src="/icons/party-reversed.png">
                 <br>&nbsp;<br>
-                 New Years Day Powerboat Racing -->
-                <!-- &nbsp; <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> -->                
-            <!-- </button>
-        </div> -->
+                Wing and Kite Demo and Festival hosted<br>
+                by Edge Watersports
+                <br>&nbsp;<br>
+                <em>more details...</em>
+            </button>
+        </div>
     </div>
 </div>
 

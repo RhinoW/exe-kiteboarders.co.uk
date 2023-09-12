@@ -102,11 +102,11 @@ unsafe= true
         url = "/membership/"
         weight = 90
 
-    # [[menu.main]]
-    #     identifier = "bursary"
-    #     name = "Bursary"
-    #     url = "/bursary/"
-    #     weight = 100
+    [[menu.main]]
+        identifier = "shread-fest"
+        name = "Shred Fest!"
+        url = "/shred-fest/"
+        weight = 100
 
     # [[menu.main]]
     #     identifier = "news"
