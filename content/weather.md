@@ -20,14 +20,13 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
                 <i class="fa fa-video-camera ml-2" style="font-size:200%" aria-hidden="true"></i>
             </a>
         </div>
-        <div class="pt-3 pb-3">
-            <button type="button" onclick="window.location.href='/shred-fest/'" class="btn btn-info text-dark" Xdata-toggle="modal" Xdata-target="#seafrontWarningModal">                                 
-                <img src="/icons/party.png">
-                <strong>Shred Fest - 16/17th September</strong>
-                <img src="/icons/party-reversed.png">
+               <div class="pt-3 pb-3">
+            <button type="button" class="btn btn-warning" onclick="window.location.href='/spot-guide/duck-pond/#wildlife-refuge'">
+                <i class="fa fa-twitter" aria-hidden="true"></i>
+                &nbsp; 
+                <strong>Duckpond</strong> &nbsp; <i class="fa fa-twitter" aria-hidden="true"></i>
                 <br>&nbsp;<br>
-                Wing and Kite Demo and Festival hosted<br>
-                by Edge Watersports
+                Wildlife refuge in effect until<br><strong>31st December</strong>
                 <br>&nbsp;<br>
                 <em>more details...</em>
             </button>
