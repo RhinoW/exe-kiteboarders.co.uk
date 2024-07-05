@@ -76,17 +76,24 @@ height = 395 for all
 <caption><em style="font-size:70%">Charts by <a href="https://www.windguru.cz/47887" target="_blank">Windguru</a> and weather stations sponsored by <a href="https://www.edgewatersports.com/" target="_blank">EDGE Watersports</a></em></caption>
 </div> -->
     
+<hr>
+
+## Spots
+
+There are two spots in Exmouth - the [Sea Front and Duck Pond](/spot-guide/). The wind and tide conditions dictate which will be best at any particular time.
+
+* [Duck Pond](/spot-guide/duck-pond/) is better around High Tide with winds coming from the north.
+* [Sea Front](/spot-guide/seafront/) is better around Low Tide  with winds coming from the south.
+
+See the detailed <a href="/spot-guide/">Spot Guides</a> for more information
 
 <hr>
 
 ## Forecast
-* There are two spots in Exmouth - the [Sea Front and Duck Pond](/spot-guide/). The wind and tide conditions dictate which will be best at any particular time.
-* In general the
-      * [Duck Pond](/spot-guide/duck-pond/) is better around High Tide with winds coming from the north.
-      * [Sea Front](/spot-guide/seafront/) is better around Low Tide  with winds coming from the south.
-   * See the detailed <a href="/spot-guide/">Spot Guides</a> for more information
+
 * [Tide Times](https://www.tidetimes.org.uk/exmouth-dock-tide-times)   
 * [Windguru - Exmouth](https://www.windguru.cz/47887)
+* [BBC Weather](https://www.bbc.co.uk/weather/2649800)
 * [XC Weather](https://www.xcweather.co.uk/) - broader overview of the wind (actual and forecast) over the UK.
 * [Magic Seaweed](https://magicseaweed.com/Exmouth-Surf-Report/164/)
 * [Met Office - surface pressure charts](https://www.metoffice.gov.uk/weather/maps-and-charts/surface-pressure/)
