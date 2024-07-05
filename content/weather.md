@@ -15,21 +15,22 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
     </div>
     <div class="col-lg-8 col-sm-12 text-center align-self-center">
         <div class="video-container text-center mt-2">
+            <i class="fa fa-video-camera ml-2" style="font-size:200%; color:#f96332" aria-hidden="true"></i><br>
             <a href="https://exmouthcoastwatch.co.uk/webcam/" target="_blank" rel="noopener noreferrer">
-                Exmouth NCI Coastwatch webcam
-                <i class="fa fa-video-camera ml-2" style="font-size:200%" aria-hidden="true"></i>
+                <s>Exmouth NCI webcam (out of order)</s>
+                <!-- <i class="fa fa-video-camera ml-2" style="font-size:200%" aria-hidden="true"></i> -->
+            </a>
+            <br>
+            <a href="https://www.edgewatersports.com/live-conditions/" target="_blank" rel="noopener noreferrer">
+                EDGE watersports webcam
+            </a>
+            <br>
+            <a href="https://www.exmouthcam.co.uk/webcam/" target="_blank" rel="noopener noreferrer">
+                Exmouthcam Seafront Webcam
             </a>
         </div>
-               <div class="pt-3 pb-3">
-            <button type="button" class="btn btn-warning" onclick="window.location.href='/spot-guide/duck-pond/#wildlife-refuge'">
-                <i class="fa fa-twitter" aria-hidden="true"></i>
-                &nbsp; 
-                <strong>Duckpond</strong> &nbsp; <i class="fa fa-twitter" aria-hidden="true"></i>
-                <br>&nbsp;<br>
-                Wildlife refuge in effect until<br><strong>31st December</strong>
-                <br>&nbsp;<br>
-                <em>more details...</em>
-            </button>
+        <div class="pt-3 pb-3">            
+             <!-- {{< wildlife-refuge >}}  -->
         </div>
     </div>
 </div>
@@ -64,11 +65,16 @@ height = 395 for all
 <div class="windguru-container text-center">
 <iframe src="https://www.windguru.cz/wglive-iframe.php?s=2395&wj=knots&tj=c&m=3&gsize=200&msize=200&show=g,c" frameborder="0"></iframe>
 </div>
-<p  class="mb-0"><strong>Duckpond - live wind</strong></p>
-<div class="windguru-container text-center">
+<p>See also the <a href="https://exmouthcoastwatch.co.uk/weather/" target="_blank" rel="noopener noreferrer">Exmouth NCI weather station</a></p>
+<p><em>Warning - both of these seafront weather stations under read if there is any North component to the wind<em><p>
+
+
+
+<p class="mt-3 mb-0"><strong>Duckpond - live wind</strong> (Weather station currently out of order)</p>
+<!-- <div class="windguru-container text-center">
 <iframe src="https://www.windguru.cz/wglive-iframe.php?s=1882&wj=knots&tj=c&m=3&gsize=200&msize=200&show=g,c" frameborder="0"></iframe>
 <caption><em style="font-size:70%">Charts by <a href="https://www.windguru.cz/47887" target="_blank">Windguru</a> and weather stations sponsored by <a href="https://www.edgewatersports.com/" target="_blank">EDGE Watersports</a></em></caption>
-</div>
+</div> -->
     
 
 <hr>
@@ -89,11 +95,19 @@ height = 395 for all
 
 <hr>
 
+## Webcams
+
+* [Exmouth NCI Coastwatch](https://exmouthcoastwatch.co.uk/webcam/) (currently out of order)
+* [EDGE watersports live](https://www.edgewatersports.com/live-conditions/)
+* [Exmouthcam Seafront](https://www.exmouthcam.co.uk/webcam/)
+* [Startcross Yacht Club](https://www.starcrossyc.org.uk/essentials/webcam)
+
+<hr>
+
 ## Other
 
 * [Exmouth NCI Weather Station](https://exmouthcoastwatch.co.uk/weather/) - under-reads if the wind has any North in it so check the Duckpond one above too. Can be offline and showing old data at times so check the error at the top - if it's showing red and "4 hours since last update". Click on the dials to see a history.
-
-* [Interactive Webcam](http://www.exmouthcam.co.uk/webcam/)
+* [Starcross Yacht Club Weather Station](https://www.starcrossyc.org.uk/weather)
 
 <!-- Warning modal -->
 
