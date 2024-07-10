@@ -51,7 +51,7 @@ start chrome http://localhost:1313/
 code .
 
 === BUILD FOR DEPLOYMENT
-rmdir public /s
+rmdir public
 hugo
 -- then git add/commit/push
 
