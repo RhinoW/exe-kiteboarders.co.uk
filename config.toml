@@ -97,6 +97,12 @@ unsafe= true
     #     weight = 80
 
     [[menu.main]]
+        identifier = "straight-point"
+        name = "Straight Point"
+        url = "/straight-point/"
+        weight = 80
+
+    [[menu.main]]
         identifier = "membership"
         name = "Membership"
         url = "/membership/"

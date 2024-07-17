@@ -29,8 +29,15 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
                 Exmouthcam Seafront Webcam
             </a>
         </div>
-        <div class="pt-3 pb-3">            
+        <div class="pt-3 pb-3" style="font-weight:bold">            
              <!-- {{< wildlife-refuge >}}  -->
+             <a href="/straight-point">
+                <i class="fa fa-crosshairs" aria-hidden="true" style="font-size:200%; color:red"></i>
+                <br>
+                <span style="color:red">
+                Safety Warning : Straight Point Firing Range
+                </span>
+             </a>
         </div>
     </div>
 </div>
