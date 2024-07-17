@@ -66,6 +66,7 @@ Kitesurfers <ins>must</ins> give way to all larger and less manoeuverable craft 
 * The **beach can get busy in summer**. Be courteous and use the semi-official launch area, get and give help to launch and land. Don't leave your lines all over. Don't fly/jump/drop/crash your kite over the beach. Check for other kiters / beach users before you launch and let them pass by first. Just **"don't be a kook"**
 * **Stay OUT of the 'swimming area' when it's in use** - its patrolled by the RNLI and busy in summer. Don't go between the red/yellow flags until you're at least 100m off shore.
 * When not in use by others, the 'swimming area' near Maer Rocks & the lifeboat station is shallow and out of the tide so good for learning and when the tide is causing problems (otherwise start well upwind and get over and behind Pole Sands to get out of the tide)
+* Never kiteboard through the [danger area of Straight Point Firing Range](/straight-point/) when it is in use.
 
 
 

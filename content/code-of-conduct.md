@@ -41,6 +41,7 @@ Read the spot [Exmouth Kitesurfing Spot Guide](/spot-guide/) for detailed inform
 * All riders should be familiar with rescue signals and participants should regularly practice deep water pack downs and self-rescue. These techniques are taught by all qualified British Kitesports instructors and schools.
 * Keep a safe distance from any moored vessel, boys and boat moorings.
 * Never kiteboard in or near to the bathing areas and swimmers when in use or the lifeguards are present.
+* Never kiteboard through the [danger area of Straight Point Firing Range](/straight-point/) when it is in use.
 
 <h2><a name="rights-of-way">Rights of way</a></h2>
 
