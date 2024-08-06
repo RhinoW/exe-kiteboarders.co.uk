@@ -59,7 +59,7 @@ hugo
 		git add * or filename		
 		// see whats in commit
 		git status
-		git commit -m "MESSAGE"
+		git commit -m "Site rebuilt"
 		git push -u origin master
 				
 		// pull and merge

@@ -73,15 +73,15 @@ height = 395 for all
 <iframe src="https://www.windguru.cz/wglive-iframe.php?s=2395&wj=knots&tj=c&m=3&gsize=200&msize=200&show=g,c" frameborder="0"></iframe>
 </div>
 <p>See also the <a href="https://exmouthcoastwatch.co.uk/weather/" target="_blank" rel="noopener noreferrer">Exmouth NCI weather station</a></p>
-<p><em>Warning - both of these seafront weather stations under read if there is any North component to the wind<em><p>
+<p><em>Warning - both of the NCI and seafront weather stations under read if there is any North component to the wind<em><p>
 
 
 
-<p class="mt-3 mb-0"><strong>Duckpond - live wind</strong> (Weather station currently out of order)</p>
-<!-- <div class="windguru-container text-center">
+<p class="mt-3 mb-0"><strong>Duckpond - live wind</strong></p>
+<div class="windguru-container text-center">
 <iframe src="https://www.windguru.cz/wglive-iframe.php?s=1882&wj=knots&tj=c&m=3&gsize=200&msize=200&show=g,c" frameborder="0"></iframe>
 <caption><em style="font-size:70%">Charts by <a href="https://www.windguru.cz/47887" target="_blank">Windguru</a> and weather stations sponsored by <a href="https://www.edgewatersports.com/" target="_blank">EDGE Watersports</a></em></caption>
-</div> -->
+</div>
     
 <hr>
 
