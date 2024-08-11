@@ -85,7 +85,7 @@ height = 395 for all
     
 <hr>
 
-## Spots
+## ⛯ Spots
 
 There are two spots in Exmouth - the [Sea Front and Duck Pond](/spot-guide/). The wind and tide conditions dictate which will be best at any particular time.
 
@@ -96,7 +96,7 @@ See the detailed <a href="/spot-guide/">Spot Guides</a> for more information
 
 <hr>
 
-## Forecast
+## 💨 Forecast
 
 * [Tide Times](https://www.tidetimes.org.uk/exmouth-dock-tide-times)   
 * [Windguru - Exmouth](https://www.windguru.cz/47887)
@@ -108,12 +108,22 @@ See the detailed <a href="/spot-guide/">Spot Guides</a> for more information
 
 <hr>
 
-## Webcams
+## 📷 Webcams
 
 * [Exmouth NCI Coastwatch](https://exmouthcoastwatch.co.uk/webcam/)
 * [EDGE watersports live](https://www.edgewatersports.com/live-conditions/)
 * [Exmouthcam Seafront](https://www.exmouthcam.co.uk/webcam/)
 * [Startcross Yacht Club](https://www.starcrossyc.org.uk/essentials/webcam)
+
+<hr>
+
+## 💩 Water Quality & Pollution
+
+
+* [Surfers against Sewage (SAS)](https://www.sas.org.uk/water-quality/sewage-pollution-alerts/)
+* [Water Fit Live - SWW](https://www.southwestwater.co.uk/environment/rivers-and-bathing-waters/waterfitlive/storm-overflow-map)
+* [ESCAPE - End Sewage Convoyys And Poollution Exmouth](https://www.facebook.com/groups/exmouthescape)
+* [Friends of the River Exe (FORE)](https://friendsoftheriverexe.org/)
 
 <hr>
 
