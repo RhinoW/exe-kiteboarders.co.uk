@@ -1,0 +1,50 @@
+Sewage alerts here
+
+https://www.sas.org.uk/water-quality/sewage-pollution-alerts/
+
+
+https://www.securetransaction.uk/sas/map/map-code.php
+
+var addlink = '';
+            var dispim = '';
+            image = 'map-typet30i2.png';
+            markertype = '30';
+            contentString = '<div style="min-width:300px; max-width:350px;">Exmouth';
+            contentString = contentString + '<br>Sewer systems in this location are under maintenance and the water company has temporarily disabled real-time alerts.';
+            contentString = contentString + '<br>Exmouth is a large sandy resort beach at the mouth of the River Exe backed by a promenade and the town. A memento of its Victorian heyday fine gardens and parks also back the beach. There is a sewer overflow discharging through an outfall to the south east which may affect bathing water quality especially after heavy rainfall.<br>';
+            contentString = contentString + addlink + dispim + '';
+            that.infowindow[75] = new google.maps.InfoWindow({
+                content: contentString
+            });
+            var markerloc = new google.maps.LatLng(50.613660319449444,-3.4124577923583956);
+            beachMarker[75] = new google.maps.Marker({
+                position: markerloc,
+                draggable: false,
+                animation: google.maps.Animation.DROP,
+                zIndex: 2,
+                map: map,
+                icon: image,
+                visible: true,
+                title: 'Exmouth'
+            });
+            sww_markers[20] = '75';
+            google.maps.event.addListener(beachMarker[75], 'click', function() {
+                infowindow[75].open(map, beachMarker[75]);
+                beachMarker[75].setAnimation(null);
+            });
+            google.maps.event.addListener(beachMarker[75], 'mouseover', function() {
+                beachMarker[75].setAnimation(google.maps.Animation.BOUNCE);
+            });
+            google.maps.event.addListener(beachMarker[75], 'mouseout', function() {
+                beachMarker[75].setAnimation(null);
+            });
+
+        
+image
+    https://www.securetransaction.uk/sas/map/map-typet1i2.png   Tick
+    https://www.securetransaction.uk/sas/map/map-typet20i2.png  Cross
+    https://www.securetransaction.uk/sas/map/map-typet30i2.png  maintenance
+    
+    https://www.securetransaction.uk/sas/map/map-typet2i2.png   Cross - Sewage pollution alert
+    https://www.securetransaction.uk/sas/map/map-typet50i2.png  Exclamation - Pollution Risk Forcease or Incident Alert
+
