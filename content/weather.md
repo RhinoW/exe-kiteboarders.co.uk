@@ -52,7 +52,7 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
     top: 0;
     left: 0;
     width: 100%;
-    height: 280px;
+    height: 300px;
 }
 </style>
 
@@ -70,10 +70,10 @@ height = 395 for all
 
 <p class="mb-0"><strong>Seafront - live wind</strong></p>
 <div class="windguru-container text-center">
-<iframe src="https://www.windguru.cz/wglive-iframe.php?s=2395&wj=knots&tj=c&m=3&gsize=200&msize=200&show=g,c" frameborder="0"></iframe>
+<iframe src="https://www.windguru.cz/wglive-iframe.php?s=14968&wj=knots&tj=c&m=3&gsize=200&msize=200&show=g,c" frameborder="0"></iframe>
 </div>
 <p>See also the <a href="https://exmouthcoastwatch.co.uk/weather/" target="_blank" rel="noopener noreferrer">Exmouth NCI weather station</a></p>
-<p><em>Warning - both of the NCI and seafront weather stations under read if there is any North component to the wind<em><p>
+<p><em>Warning - the seafront weather stations under read if there is any North component to the wind<em><p>
 
 
 
@@ -129,7 +129,7 @@ See the detailed <a href="/spot-guide/">Spot Guides</a> for more information
 
 ## Other
 
-* [Exmouth NCI Weather Station](https://exmouthcoastwatch.co.uk/weather/) - under-reads if the wind has any North in it so check the Duckpond one above too. Can be offline and showing old data at times so check the error at the top - if it's showing red and "4 hours since last update". Click on the dials to see a history.
+* [Exmouth NCI Weather Station](https://exmouthcoastwatch.co.uk/weather/) - under-reads if the wind has any North in it so check the Duckpond one above too.
 * [Starcross Yacht Club Weather Station](https://www.starcrossyc.org.uk/weather)
 
 <!-- Warning modal -->
