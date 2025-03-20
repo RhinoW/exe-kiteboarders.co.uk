@@ -16,7 +16,7 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
     <div class="col-lg-8 col-sm-12 text-center align-self-center">
         <div class="video-container text-center mt-2">
             <i class="fa fa-video-camera ml-2" style="font-size:200%; color:#f96332" aria-hidden="true"></i><br>
-            <a href="https://exmouthcoastwatch.co.uk/webcam/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.viewcam.co.uk/clients/feeds/ssl/codegenssl.php?feed=nciexmouth&version=compatible" target="_blank" rel="noopener noreferrer">
                 Exmouth NCI webcam
                 <!-- <i class="fa fa-video-camera ml-2" style="font-size:200%" aria-hidden="true"></i> -->
             </a>
@@ -110,7 +110,7 @@ See the detailed <a href="/spot-guide/">Spot Guides</a> for more information
 
 ## 📷 Webcams
 
-* [Exmouth NCI Coastwatch](https://exmouthcoastwatch.co.uk/webcam/)
+* [Exmouth NCI Coastwatch](https://www.viewcam.co.uk/clients/feeds/ssl/codegenssl.php?feed=nciexmouth&version=compatible)
 * [EDGE watersports live](https://www.edgewatersports.com/live-conditions/)
 * [Exmouthcam Seafront](https://www.exmouthcam.co.uk/webcam/)
 * [Startcross Yacht Club](https://www.starcrossyc.org.uk/essentials/webcam)
