@@ -31,13 +31,21 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
         </div>
         <div class="pt-3 pb-3" style="font-weight:bold">            
              <!-- {{< wildlife-refuge >}}  -->
-             <a href="/straight-point">
+             <!-- <a href="/straight-point">
                 <i class="fa fa-crosshairs" aria-hidden="true" style="font-size:200%; color:red"></i>
                 <br>
                 <span style="color:red">
                 Safety Warning : Straight Point Firing Range
                 </span>
-             </a>
+             </a> -->
+             <a href="/meeting-agm/">
+                <i class="fa fa-calendar" aria-hidden="true" style="font-size:200%; color:navy"></i>
+                <br>
+                <span style="color:navy">
+                Social - Tuesday October 21st - 7pm<br>
+                AGM - Tuesday November 4th - 7pm
+                </span>
+            </a>
         </div>
     </div>
 </div>

@@ -77,12 +77,18 @@ unsafe= true
         name = "Weather"
         url = "/weather/"
         weight = 20
-        
+
+    [[menu.main]]
+        identifier = "agm"
+        name = "AGM"
+        url = "/meeting-agm/"
+        weight = 25
+
     [[menu.main]]
         identifier = "links"
         name = "Links"
         url = "/links/"
-        weight = 30            
+        weight = 30
 
     [[menu.main]]
         identifier = "code-of-conduct"

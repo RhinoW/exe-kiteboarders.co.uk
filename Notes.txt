@@ -44,7 +44,7 @@ hugo server --bind=0.0.0.0 --baseURL=http://whistler:1313
 
 # Non default (1313) port
 
-hugo server -p 1234
+hugo server -p 1313
 
 start chrome http://localhost:1313/
 
