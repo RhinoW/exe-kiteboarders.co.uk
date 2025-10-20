@@ -21,10 +21,10 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
                 <!-- <i class="fa fa-video-camera ml-2" style="font-size:200%" aria-hidden="true"></i> -->
             </a>
             <br>
-            <a href="https://www.edgewatersports.com/live-conditions/" target="_blank" rel="noopener noreferrer">
+            <!-- <a href="https://www.edgewatersports.com/live-conditions/" target="_blank" rel="noopener noreferrer">
                 EDGE watersports webcam
             </a>
-            <br>
+            <br> -->
             <a href="https://www.exmouthcam.co.uk/webcam/" target="_blank" rel="noopener noreferrer">
                 Exmouthcam Seafront Webcam
             </a>
@@ -76,14 +76,19 @@ height = 395 for all
 
 <!-- <div class="text-danger m-3"><strong>WARNING</strong> - Currently the Seafront weather station is stuck showing S wind direction and the Duckpond station is out of order. See <strong><a href="https://exmouthcoastwatch.co.uk/weather/" target="_blank" rel="noopener noreferrer">NCI Weather Station</a></strong></div> -->
 
-<p class="mb-0"><strong>Seafront - live wind</strong></p>
+<!-- <p class="mb-0"><strong>Seafront - live wind</strong></p>
 <div class="windguru-container text-center">
 <iframe src="https://www.windguru.cz/wglive-iframe.php?s=14968&wj=knots&tj=c&m=3&gsize=200&msize=200&show=g,c" frameborder="0"></iframe>
 </div>
 <p>See also the <a href="https://exmouthcoastwatch.co.uk/weather/" target="_blank" rel="noopener noreferrer">Exmouth NCI weather station</a></p>
-<p><em>Warning - the seafront weather stations under read if there is any North component to the wind<em><p>
+<p><em>Warning - the seafront weather stations under read if there is any North component to the wind<em><p> -->
 
-
+<p class="mb-0"><strong>Seafront - live wind</strong></p>
+<div class="windguru-container text-center">
+<iframe src="https://www.windguru.cz/wglive-iframe.php?s=15502&wj=knots&tj=c&m=3&gsize=200&msize=200&show=g,c" frameborder="0"></iframe>
+</div>
+<p>Anemometer positioned on the <a href="https://www.exmouthlifeboat.org.uk/" target="_blank">RNLI Lifeboat building roof</a></p>
+<em style="color:gray;font-size:80%"><p>Real time data from the <a href="https://coastalmonitoring.org/realtimedata/?chart=117&tab=met&range=default&disp_option=0&user_indate=&datum=chart" target="_blank">Regional Coastal Monitoring Programme</a>, made freely available under the terms of the Open Government Licence. Please note that these are real-time data and are not quality-controlled.</p></em>
 
 <p class="mt-3 mb-0"><strong>Duckpond - live wind</strong></p>
 <div class="windguru-container text-center">
@@ -113,13 +118,13 @@ See the detailed <a href="/spot-guide/">Spot Guides</a> for more information
 * [Magic Seaweed](https://magicseaweed.com/Exmouth-Surf-Report/164/)
 * [Met Office - surface pressure charts](https://www.metoffice.gov.uk/weather/maps-and-charts/surface-pressure/)
 * [Met Office - Insore Waters, Lyme Regis to Lands End (#8)](https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/inshore-waters-forecast#area8)
+* [NCI Exmouth - Weather Page](https://nciexmouth.org.uk/weather-data/)
 
 <hr>
 
 ## 📷 Webcams
 
 * [Exmouth NCI Coastwatch](https://www.viewcam.co.uk/clients/feeds/ssl/codegenssl.php?feed=nciexmouth&version=compatible)
-* [EDGE watersports live](https://www.edgewatersports.com/live-conditions/)
 * [Exmouthcam Seafront](https://www.exmouthcam.co.uk/webcam/)
 * [Startcross Yacht Club](https://www.starcrossyc.org.uk/essentials/webcam)
 
