@@ -50,22 +50,7 @@ start chrome http://localhost:1313/
 
 code .
 
-=== BUILD FOR DEPLOYMENT
-rmdir public
-hugo
--- then git add/commit/push
-
-// Add and commit
-		git add * or filename		
-		// see whats in commit
-		git status
-		git commit -m "Site rebuilt"
-		git push -u origin master
-				
-		// pull and merge
-		git pull			
-		
-		
-=== Setup new site
-
-hugo new site [dir]
+DEPLOYMENT
+==========
+Just push to git
+Netlify will run build step automagically.
