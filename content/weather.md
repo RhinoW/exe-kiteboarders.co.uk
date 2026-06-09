@@ -38,12 +38,21 @@ description: "Weather forecast and conditions for kite-surfing in Exmouth (Duck 
                 Safety Warning : Straight Point Firing Range
                 </span>
              </a> -->
-             <a href="/meeting-agm/">
-                <i class="fa fa-calendar" aria-hidden="true" style="font-size:200%; color:navy"></i>
+<style>
+@keyframes tilt-shaking {
+  0% { transform: rotate(0deg); }
+  25% { transform: rotate(15deg); }
+  50% { transform: rotate(0eg); }
+  75% { transform: rotate(-15deg); }
+  100% { transform: rotate(0deg); }
+}
+</style>
+             <a href="https://www.facebook.com/groups/exmouthkitesurf/permalink/4564404783841873/" target="_blank">                
+                <i class="fa fa-beer" aria-hidden="true" style="font-size:300%; color:#F6C342;
+                animation: tilt-shaking 0.5s ease-in-out infinite;"></i>
                 <br>
                 <span style="color:navy">
-                Social - Tuesday October 21st - 7pm<br>
-                AGM - Tuesday November 4th - 7pm
+                Social - Friday 12th June @ Sideshore - 5-7pm                
                 </span>
             </a>
         </div>
